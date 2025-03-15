@@ -1,11 +1,14 @@
 # Bank-Loan-Prediction-using-Logistic-Regression
 1) Project Overview:
 
-*This project applies logistic regression to predict whether a bank loan application will be approved or not.
-*The dataset includes applicant details such as Cibil Score, Dependents, Previous Loan History, and more. 
-*The goal is to build a predictive model that helps financial institutions automate loan approval decisions efficiently.
+  *This project applies logistic regression to predict whether a bank loan application will be approved or not.
+  
+  *The dataset includes applicant details such as Cibil Score, Dependents, Previous Loan History, and more. 
+  
+  *The goal is to build a predictive model that helps financial institutions automate loan approval decisions efficiently.
 
 2) Dataset & Features:
+3) 
 After feature selection, the following variables were used for training:
 
 Cibil Score – Creditworthiness of the applicant
@@ -16,6 +19,7 @@ Self_Employed – Employment type
 Previous Loan Taken – Whether the applicant has taken a loan before
 
 3)Project Workflow:
+
 1️⃣ Data Preprocessing – Handled missing values, encoded categorical data, and selected important features.
 
 2️⃣ Exploratory Data Analysis (EDA) – Identified patterns and relationships between features.
