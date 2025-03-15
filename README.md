@@ -8,15 +8,15 @@
   *The goal is to build a predictive model that helps financial institutions automate loan approval decisions efficiently.
 
 2) Dataset & Features:
-3) 
+
 After feature selection, the following variables were used for training:
 
-Cibil Score – Creditworthiness of the applicant
-Dependents – Number of dependents in the family
-Gender – Applicant’s gender
-Married – Marital status
-Self_Employed – Employment type
-Previous Loan Taken – Whether the applicant has taken a loan before
+Cibil Score – Creditworthiness of the applicant,
+Dependents – Number of dependents in the family,
+Gender – Applicant’s gender,
+Married – Marital status,
+Self_Employed – Employment type,
+Previous Loan Taken – Whether the applicant has taken a loan before.
 
 3)Project Workflow:
 
